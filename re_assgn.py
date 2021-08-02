@@ -1,3 +1,5 @@
+#This assignment involves using Regular Expressions (RegEx) to extract and sum all numbers from a given file
+
 import re
 
 file = open(r"C:\Users\Hp\python_web_course\actual_data.txt")
